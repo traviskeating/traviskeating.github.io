@@ -1,0 +1,115 @@
+body
+    {
+    background-color:rgb(189,169,125);
+    }
+            
+img
+    {
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:8px;
+        border-style:outset;
+        border-color:rgb(110,98,80);
+    }
+
+h2
+{
+    color:rgb(13,53,120);
+}
+
+p
+{
+    color:rgb(10,18,60);    
+}
+
+ul li
+    {
+    display:inline;
+    margin-left:10px;
+    }
+
+a:link{
+    color:rgb(13,53,120);
+}
+
+a:visited{
+    color:rgb(91,196,190);
+}
+
+a:hover{
+    font-size:20;
+}
+
+a:active{
+    font-size:15;
+}
+           
+.menu
+{
+    background-color:rgb(148,132,98);
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-left:0px;
+    
+} 
+
+table th
+{
+    border:solid 3px rgb(110,98,80);
+    border-radius:8px;
+    background-color:rgb(148,132,98);
+    width:1%;
+}
+
+
+
+.container
+    {
+    background-color:rgb(148,132,98);
+    border-style:inset;
+    border-color:rgb(110,98,80);
+    margin:30px;
+    padding:20px;
+    }
+
+.caption
+{
+    background-color: rgb(148,132,98);
+    border-style:outset;
+    border-color:rgb(110,98,80);
+    margin-top:20px;
+}
+
+figcaption
+{
+    text-align:center;
+    font-style:italic;
+    font-weight:bolder;
+    font-variant:small-caps;
+    color:rgb(13,53,120);
+}
+
+.smlTxt
+{
+    text-align:center;
+    font-style:italic;
+    font-weight:bolder;
+    font-variant:small-caps;
+    color:rgb(13,53,120);
+    
+}
+
+.imgBox
+{
+    Background-color:rgb(148,132,98);
+    border-style:inset;
+    border-color:rgb(110,98,80);
+    margin:30px;
+    padding:20px;
+}
+
+.wrapper
+{
+    padding:10px;
+}
