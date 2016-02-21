@@ -62,6 +62,10 @@ table th
     width:1%;
 }
 
+.hover:hover{
+    width:100%;
+}
+
 .h1 Title01
 {
     text-align:center;
